@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(173, 169, 169);
+
+}
+
+h2 {
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+input {
+    background-color: violet;
+    border-color: violet;
+}
+
+.btn {
+    background-color: rgb(5, 48, 88);
+    border-color: rgb(5, 48, 88);
+    color: aliceblue;
+}
+
+.style {
+    margin-top: 50px;
+    margin-left: 515px;
+}
